@@ -1,6 +1,6 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        a=nums
+        a=nums                                  #using merge sort
         def merge(left,right):
             merg=[]
             i=0

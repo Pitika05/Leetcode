@@ -5,6 +5,7 @@ Solve medium and high questions on leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
@@ -53,4 +54,8 @@ Solve medium and high questions on leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

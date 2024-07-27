@@ -8,11 +8,13 @@ Solve medium and high questions on leetcode
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
@@ -24,6 +26,7 @@ Solve medium and high questions on leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -54,8 +57,10 @@ Solve medium and high questions on leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

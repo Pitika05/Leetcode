@@ -7,6 +7,7 @@ Solve medium and high questions on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
@@ -25,6 +26,7 @@ Solve medium and high questions on leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -57,6 +59,7 @@ Solve medium and high questions on leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pitika05/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |

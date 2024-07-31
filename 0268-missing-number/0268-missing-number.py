@@ -5,6 +5,5 @@ class Solution:
         sum=0
         for i in range(n):
             sum+=nums[i]    #array sum
-        result=total-sum
-        return result
+        return total-sum
 

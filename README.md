@@ -110,4 +110,20 @@ Solve medium and high questions on leetcode
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pitika05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pitika05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pitika05/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pitika05/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pitika05/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pitika05/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

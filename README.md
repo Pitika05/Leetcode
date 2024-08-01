@@ -17,6 +17,7 @@ Solve easy, medium and high questions on leetcode
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Solve easy, medium and high questions on leetcode
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Pitika05/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -144,4 +146,8 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

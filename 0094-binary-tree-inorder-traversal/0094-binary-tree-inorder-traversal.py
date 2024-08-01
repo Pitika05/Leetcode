@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-#Morris Traversal
+
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         def inorder(node, result):

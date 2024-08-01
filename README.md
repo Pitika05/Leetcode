@@ -1,4 +1,4 @@
-Solve medium and high questions on leetcode
+Solve easy, medium and high questions on leetcode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

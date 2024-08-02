@@ -25,12 +25,14 @@ Solve easy, medium and high questions on leetcode
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -48,6 +50,7 @@ Solve easy, medium and high questions on leetcode
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Divide and Conquer
 |  |
@@ -59,6 +62,7 @@ Solve easy, medium and high questions on leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -67,6 +71,7 @@ Solve easy, medium and high questions on leetcode
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -90,6 +95,7 @@ Solve easy, medium and high questions on leetcode
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -39,6 +39,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |

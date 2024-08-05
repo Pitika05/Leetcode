@@ -117,6 +117,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Pitika05/Leetcode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -167,4 +168,8 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pitika05/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Pitika05/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

@@ -10,9 +10,9 @@ class Solution:
             return total
 
         s = set()  # Set to keep track of numbers we have encountered
-        while n != 1 and n not in s:
+        while  n != 1 and n not in s:
             s.add(n)  # Add the current number to the set
             n = sumOfSquares(n)  # Compute the next number in the sequence
-
-        return n == 1
-       
+            
+        return n==1
+        

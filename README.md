@@ -41,6 +41,7 @@ Solve easy, medium and high questions on leetcode
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Pitika05/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -95,6 +96,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +114,7 @@ Solve easy, medium and high questions on leetcode
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation

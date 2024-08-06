@@ -3,11 +3,6 @@ class Solution:
         if len(s)!=len(t):
             return False
         
-        count=[0]*26
-        for i in range(len(s)):
-            count[ord(s[i])-ord('a')]+=1
-            count[ord(t[i])-ord('a')]-=1
-        for c in count:
-            if c!=0:
-                return False
-        return True
+        sorted_str1=sorted(s)
+        sorted_str2=sorted(t)
+        return True if sorted_str1==sorted_str2 else False

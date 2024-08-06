@@ -106,6 +106,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pitika05/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pitika05/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -115,6 +116,7 @@ Solve easy, medium and high questions on leetcode
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pitika05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Pitika05/Leetcode/tree/master/0319-bulb-switcher) |
@@ -159,6 +161,7 @@ Solve easy, medium and high questions on leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pitika05/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |

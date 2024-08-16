@@ -15,6 +15,7 @@ Solve easy, medium and high questions on leetcode
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/Pitika05/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Pitika05/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -179,6 +180,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pitika05/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Pitika05/Leetcode/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |

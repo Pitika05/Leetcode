@@ -22,6 +22,7 @@ Solve easy, medium and high questions on leetcode
 | [1137-height-checker](https://github.com/Pitika05/Leetcode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/Pitika05/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2048-build-array-from-permutation](https://github.com/Pitika05/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/Pitika05/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -184,6 +185,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pitika05/Leetcode/tree/master/0054-spiral-matrix) |
+| [2048-build-array-from-permutation](https://github.com/Pitika05/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |

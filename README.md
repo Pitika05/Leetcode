@@ -26,6 +26,7 @@ Solve easy, medium and high questions on leetcode
 | [2181-smallest-index-with-equal-value](https://github.com/Pitika05/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Solve easy, medium and high questions on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Pitika05/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Solve easy, medium and high questions on leetcode
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,4 +203,8 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

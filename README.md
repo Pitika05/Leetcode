@@ -27,6 +27,7 @@ Solve easy, medium and high questions on leetcode
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Pitika05/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Solve easy, medium and high questions on leetcode
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pitika05/Leetcode/tree/master/1137-height-checker) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Pitika05/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Pitika05/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Solve easy, medium and high questions on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Pitika05/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Pitika05/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |

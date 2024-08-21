@@ -21,6 +21,7 @@ Solve easy, medium and high questions on leetcode
 | [0948-sort-an-array](https://github.com/Pitika05/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pitika05/Leetcode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/Pitika05/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1656-count-good-triplets](https://github.com/Pitika05/Leetcode/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/Pitika05/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/Pitika05/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -209,5 +210,6 @@ Solve easy, medium and high questions on leetcode
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Pitika05/Leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

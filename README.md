@@ -10,6 +10,7 @@ Solve easy, medium and high questions on leetcode
 | [0053-maximum-subarray](https://github.com/Pitika05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pitika05/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Pitika05/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Pitika05/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Pitika05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pitika05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -32,6 +33,7 @@ Solve easy, medium and high questions on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pitika05/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Pitika05/Leetcode/tree/master/0274-h-index) |
@@ -52,6 +54,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Pitika05/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0151-reverse-words-in-a-string) |

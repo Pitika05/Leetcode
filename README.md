@@ -70,6 +70,7 @@ Solve easy, medium and high questions on leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pitika05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pitika05/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pitika05/Leetcode/tree/master/0125-valid-palindrome) |
@@ -218,4 +219,8 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [1656-count-good-triplets](https://github.com/Pitika05/Leetcode/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pitika05/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

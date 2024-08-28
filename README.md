@@ -79,6 +79,7 @@ Solve easy, medium and high questions on leetcode
 | [0344-reverse-string](https://github.com/Pitika05/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pitika05/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pitika05/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/Pitika05/Leetcode/tree/master/0812-rotate-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Divide and Conquer
 |  |
@@ -214,6 +215,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Pitika05/Leetcode/tree/master/0812-rotate-string) |
 ## Enumeration
 |  |
 | ------- |

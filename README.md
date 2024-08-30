@@ -31,6 +31,7 @@ Solve easy, medium and high questions on leetcode
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Pitika05/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Pitika05/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Pitika05/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pitika05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pitika05/Leetcode/tree/master/0724-find-pivot-index) |
+| [2714-left-and-right-sum-differences](https://github.com/Pitika05/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Brainteaser
 |  |
 | ------- |

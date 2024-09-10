@@ -18,4 +18,4 @@ class Solution:
                     left+=1
                 else:
                     right-=1
-        return result
+        return [list(triplet) for triplet in result]

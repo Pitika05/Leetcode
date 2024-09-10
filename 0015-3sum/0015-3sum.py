@@ -1,8 +1,8 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        if nums==None or len(nums)<3:
+        if nums == None or len(nums)<3:
             return []
-            
+
         nums.sort()
         result=set()
 

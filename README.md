@@ -12,6 +12,7 @@ Solve easy, medium and high questions on leetcode
 | [0048-rotate-image](https://github.com/Pitika05/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Pitika05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pitika05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Pitika05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pitika05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pitika05/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pitika05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +128,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Pitika05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Pitika05/Leetcode/tree/master/0242-valid-anagram) |
@@ -166,6 +168,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/Pitika05/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pitika05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Pitika05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pitika05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pitika05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack

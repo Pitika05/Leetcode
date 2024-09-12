@@ -27,6 +27,7 @@ Solve easy, medium and high questions on leetcode
 | [1137-height-checker](https://github.com/Pitika05/Leetcode/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/Pitika05/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Pitika05/Leetcode/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/Pitika05/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pitika05/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/Pitika05/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2181-smallest-index-with-equal-value](https://github.com/Pitika05/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -171,6 +172,7 @@ Solve easy, medium and high questions on leetcode
 | [0073-set-matrix-zeroes](https://github.com/Pitika05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pitika05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pitika05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Pitika05/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |

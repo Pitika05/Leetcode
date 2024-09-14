@@ -81,6 +81,7 @@ Solve easy, medium and high questions on leetcode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Pitika05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Pitika05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pitika05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pitika05/Leetcode/tree/master/0058-length-of-last-word) |
@@ -132,6 +133,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pitika05/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Pitika05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Pitika05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Pitika05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
@@ -158,6 +160,7 @@ Solve easy, medium and high questions on leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/Pitika05/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pitika05/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Pitika05/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Pitika05/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Pitika05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |

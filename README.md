@@ -164,6 +164,7 @@ Solve easy, medium and high questions on leetcode
 | [0048-rotate-image](https://github.com/Pitika05/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Pitika05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Pitika05/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Pitika05/Leetcode/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pitika05/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -220,6 +221,7 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pitika05/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Pitika05/Leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Pitika05/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pitika05/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -250,4 +252,8 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pitika05/Leetcode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Pitika05/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

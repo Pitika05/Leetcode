@@ -166,11 +166,13 @@ Solve easy, medium and high questions on leetcode
 | [0202-happy-number](https://github.com/Pitika05/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Pitika05/Leetcode/tree/master/0319-bulb-switcher) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pitika05/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/Pitika05/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pitika05/Leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pitika05/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
 | ------- |

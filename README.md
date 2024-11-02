@@ -263,4 +263,8 @@ Solve easy, medium and high questions on leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pitika05/Leetcode/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Pitika05/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
